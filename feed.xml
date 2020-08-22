@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Flora 作品集</title>
+    <title>Fang Yu Hsu 作品集</title>
     <link href="https://flaa.website/feed.xml" rel="self" />
     <link href="https://flaa.website" />
     <updated>1970-01-01T08:00:00+08:00</updated>
@@ -9,4 +9,67 @@
     </author>
     <id>https://flaa.website</id>
 
+    <entry>
+        <title>聯絡方式</title>
+        <author>
+            <name>Fang Yu Hsu</name>
+        </author>
+        <link href="https://flaa.website/lian-luo-fang-shi.html"/>
+        <id>https://flaa.website/lian-luo-fang-shi.html</id>
+
+        <updated>2020-08-22T21:16:38+08:00</updated>
+            <summary>
+                <![CDATA[
+                    Email: flaa.hsu@gmail.com
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Email: flaa.hsu@gmail.com</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>影音作品集</title>
+        <author>
+            <name>Fang Yu Hsu</name>
+        </author>
+        <link href="https://flaa.website/ying-yin-zuo-pin-ji.html"/>
+        <id>https://flaa.website/ying-yin-zuo-pin-ji.html</id>
+
+        <updated>2020-08-22T21:16:38+08:00</updated>
+            <summary>
+                <![CDATA[
+                    影音作品集
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>影音作品集</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>關於我</title>
+        <author>
+            <name>Fang Yu Hsu</name>
+        </author>
+        <link href="https://flaa.website/about-me.html"/>
+        <id>https://flaa.website/about-me.html</id>
+
+        <updated>2020-08-22T21:16:38+08:00</updated>
+            <summary>
+                <![CDATA[
+                     關於我 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    關於我
+  </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
