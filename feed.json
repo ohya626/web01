@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Fang Yu Hsu 作品集",
+    "title": "Flora 個人網站",
     "description": "",
     "home_page_url": "https://flaa.website",
     "feed_url": "https://flaa.website/feed.json",
@@ -10,46 +10,46 @@
     },
     "items": [
         {
-            "id": "https://flaa.website/lian-luo-fang-shi.html",
-            "url": "https://flaa.website/lian-luo-fang-shi.html",
-            "title": "聯絡方式",
-            "summary": "Email: flaa.hsu@gmail.com",
-            "content_html": "<p>Email: flaa.hsu@gmail.com</p>",
+            "id": "https://flaa.website/about-me-2.html",
+            "url": "https://flaa.website/about-me-2.html",
+            "title": "關於我",
+            "summary": " ",
+            "content_html": "<table style=\"border-collapse: collapse; width: 100%; background-color: #ECF0F1;\" border=\"0\">\n<tbody>\n<tr>\n<td style=\"width: 50%;\"><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://imgur.com/JsXYWNs.jpg\" data-is-external-image=\"true\"  alt=\"\" width=\"300\" height=\"300\"></figure></td>\n<td style=\"width: 50%;\"> </td>\n</tr>\n</tbody>\n</table>",
             "author": {
                 "name": "Fang Yu Hsu"
             },
             "tags": [
             ],
-            "date_published": "2020-11-07T11:58:23+08:00",
-            "date_modified": "2020-11-07T11:58:23+08:00"
+            "date_published": "2020-11-18T22:41:17+08:00",
+            "date_modified": "2020-11-18T22:41:17+08:00"
+        },
+        {
+            "id": "https://flaa.website/lian-luo-fang-shi.html",
+            "url": "https://flaa.website/lian-luo-fang-shi.html",
+            "title": "聯絡方式",
+            "summary": "Email: flaa.hsu@gmail.com",
+            "content_html": "<p>Email: <a href=\"mailto:flaa.hsu@gmail.com\">flaa.hsu@gmail.com</a></p>",
+            "author": {
+                "name": "Fang Yu Hsu"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-11-18T22:41:17+08:00",
+            "date_modified": "2020-11-18T22:41:17+08:00"
         },
         {
             "id": "https://flaa.website/ying-yin-zuo-pin-ji.html",
             "url": "https://flaa.website/ying-yin-zuo-pin-ji.html",
             "title": "影音作品集",
-            "summary": "影音作品集",
-            "content_html": "<p>影音作品集</p>",
+            "summary": "影音作品集 ",
+            "content_html": "<p>影音作品集</p>\n<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 50%;\"> </td>\n<td style=\"width: 50%;\"> </td>\n</tr>\n</tbody>\n</table>",
             "author": {
                 "name": "Fang Yu Hsu"
             },
             "tags": [
             ],
-            "date_published": "2020-11-07T11:58:23+08:00",
-            "date_modified": "2020-11-07T11:58:23+08:00"
-        },
-        {
-            "id": "https://flaa.website/about-me.html",
-            "url": "https://flaa.website/about-me.html",
-            "title": "關於我",
-            "summary": " 關於我 ",
-            "content_html": "\n  <p>\n    關於我\n  </p>",
-            "author": {
-                "name": "Fang Yu Hsu"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-11-07T11:58:23+08:00",
-            "date_modified": "2020-11-07T11:58:23+08:00"
+            "date_published": "2020-11-18T22:41:17+08:00",
+            "date_modified": "2020-11-18T22:41:17+08:00"
         }
     ]
 }
