@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Flora 個人網站</title>
+    <title>許芳瑜個人履歷</title>
     <link href="https://flaa.website/feed.xml" rel="self" />
     <link href="https://flaa.website" />
     <updated>1970-01-01T08:00:00+08:00</updated>
@@ -10,6 +10,31 @@
     <id>https://flaa.website</id>
 
     <entry>
+        <title>其他作品集</title>
+        <author>
+            <name>Fang Yu Hsu</name>
+        </author>
+        <link href="https://flaa.website/qi-ta-zuo-pin-ji.html"/>
+        <id>https://flaa.website/qi-ta-zuo-pin-ji.html</id>
+
+        <updated>2020-11-20T00:10:41+08:00</updated>
+            <summary>
+                <![CDATA[
+                    其他作品集 Illustrator 平面攝影 Blender
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>其他作品集</p>
+<p>Illustrator</p>
+<p> </p>
+<p>平面攝影</p>
+<p> </p>
+<p>Blender</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>婚禮影片</title>
         <author>
             <name>Fang Yu Hsu</name>
@@ -17,7 +42,7 @@
         <link href="https://flaa.website/hun-li-ying-pian.html"/>
         <id>https://flaa.website/hun-li-ying-pian.html</id>
 
-        <updated>2020-11-19T08:38:01+08:00</updated>
+        <updated>2020-11-20T00:10:41+08:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -29,7 +54,7 @@
         <link href="https://flaa.website/sheng-dan-jie-ju-hui-xuan-chuan-pian.html"/>
         <id>https://flaa.website/sheng-dan-jie-ju-hui-xuan-chuan-pian.html</id>
 
-        <updated>2020-11-19T08:38:01+08:00</updated>
+        <updated>2020-11-20T00:10:41+08:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -41,7 +66,7 @@
         <link href="https://flaa.website/xia-ling-ying-xuan-chuan.html"/>
         <id>https://flaa.website/xia-ling-ying-xuan-chuan.html</id>
 
-        <updated>2020-11-19T08:38:01+08:00</updated>
+        <updated>2020-11-20T00:10:41+08:00</updated>
             <summary>
                 <![CDATA[
                     2019享家兒童夏令營繞著地球跑之歐啦歐啦 負責項目：剪輯、拆圖(製作動畫)、製作素材(新聞畫面/標題/氣象...等)。使用軟體：Final cut pro X(剪輯&amp;簡易動畫)、After Effects(地球)、Illustrator(新聞畫面素材) 完整影片： &lt;&lt;返回作品集
@@ -71,7 +96,7 @@
         <link href="https://flaa.website/wei-dian-ying-ting-wo-shuo-yi-ge-gu-shi.html"/>
         <id>https://flaa.website/wei-dian-ying-ting-wo-shuo-yi-ge-gu-shi.html</id>
 
-        <updated>2020-11-19T08:38:01+08:00</updated>
+        <updated>2020-11-20T00:10:41+08:00</updated>
             <summary>
                 <![CDATA[
                     作品介紹(此為參加內湖社區大學2019年微電影比賽第二名的作品) 製作緣由： 2018年參加內湖社區大學的廣播正音課程，同學組成都是各行各業、年齡分較廣，因班上同學想一起留下課堂的回憶，故參加了這次的微電影比賽，而我負責所有的後製。攝影皆為同學上課時用手機錄製，雖然有一些課堂畫面及收音較不清晰，因為了貼合主題及增加豐富度還是放進了微電影。 負責項目： 後製(剪輯/配樂/上字…等) 簡短精華版： 完整影片： &lt;&lt;返回作品集
@@ -100,7 +125,7 @@
         <link href="https://flaa.website/about-me-2.html"/>
         <id>https://flaa.website/about-me-2.html</id>
 
-        <updated>2020-11-19T08:38:01+08:00</updated>
+        <updated>2020-11-20T00:10:41+08:00</updated>
             <summary>
                 <![CDATA[
                     關於我 ▸經歷： 製造業 採購/生管/廠務相關 (約2.5年) 餐飲業 人事/美編(2016/01-2018/05) 影視業 人事 (2018/06-2020/11) ▸志工經驗： 教會&hellip;
@@ -111,7 +136,7 @@
                 <table class=" align-center" style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
-<td class="align-center" style="width: 50%; background-color: #ecf0f1; vertical-align: middle;"><figure class="post__image"><img loading="lazy"  src="https://flaa.website/media/posts/4/flora03.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://flaa.website/media/posts/4/responsive/flora03-xs.jpg 300w ,https://flaa.website/media/posts/4/responsive/flora03-sm.jpg 480w ,https://flaa.website/media/posts/4/responsive/flora03-md.jpg 768w ,https://flaa.website/media/posts/4/responsive/flora03-lg.jpg 1024w"  alt="" width="500" height="500"></figure></td>
+<td class="align-center" style="width: 50%; background-color: #fafafa; vertical-align: middle;"><figure class="post__image"><img loading="lazy"  src="https://flaa.website/media/posts/4/flora03.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://flaa.website/media/posts/4/responsive/flora03-xs.jpg 300w ,https://flaa.website/media/posts/4/responsive/flora03-sm.jpg 480w ,https://flaa.website/media/posts/4/responsive/flora03-md.jpg 768w ,https://flaa.website/media/posts/4/responsive/flora03-lg.jpg 1024w"  alt="" width="500" height="500"></figure></td>
 <td class="align-left" style="width: 50%; background-color: #eaf1f9; vertical-align: middle;">
 <p><strong>關於我</strong></p>
 <p><strong>▸經歷：<br></strong><span style="font-weight: 400;">製造業  採購/生管/廠務相關 (約2.5年)<br></span><span style="font-weight: 400;">餐飲業 人事/美編(2016/01-2018/05) <br></span><span style="font-weight: 400;">影視業 人事 (2018/06-2020/11) </span></p>
@@ -134,7 +159,7 @@
         <link href="https://flaa.website/lian-luo-fang-shi.html"/>
         <id>https://flaa.website/lian-luo-fang-shi.html</id>
 
-        <updated>2020-11-19T08:38:01+08:00</updated>
+        <updated>2020-11-20T00:10:41+08:00</updated>
             <summary>
                 <![CDATA[
                     Email: flaa.hsu@gmail.com
@@ -154,49 +179,45 @@
         <link href="https://flaa.website/ying-yin-zuo-pin-ji.html"/>
         <id>https://flaa.website/ying-yin-zuo-pin-ji.html</id>
 
-        <updated>2020-11-19T08:38:01+08:00</updated>
+        <updated>2020-11-20T00:10:41+08:00</updated>
             <summary>
                 <![CDATA[
-                    微電影：聽我說一個故事內湖社區大學2019微電影比賽製作之微電影 使用軟體： Final cut pro X、Illustrator &lt;內容介紹&gt; 享家全人發展協會2019年兒童夏令營宣傳 使用軟體： Final cut pro&hellip;
+                    微電影：聽我說一個故事內湖社區大學2019微電影比賽第二名 使用軟體： Final cut pro X、Illustrator &lt;內容介紹&gt; 享家全人發展協會2019年兒童夏令營宣傳 使用軟體： Final cut pro&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <table style="border-collapse: collapse; width: 100%;" border="0">
+                <table style="border-collapse: collapse; width: 800px;" border="0" cellspacing="0" cellpadding="0">
 <tbody>
-<tr style="height: 46px;">
-<td style="width: 50%; height: 46px;"><figure class="post__image"><img loading="lazy"  src="https://flaa.website/media/posts/2/Zuo-Pin-01.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://flaa.website/media/posts/2/responsive/Zuo-Pin-01-xs.jpg 300w ,https://flaa.website/media/posts/2/responsive/Zuo-Pin-01-sm.jpg 480w ,https://flaa.website/media/posts/2/responsive/Zuo-Pin-01-md.jpg 768w ,https://flaa.website/media/posts/2/responsive/Zuo-Pin-01-lg.jpg 1024w"  alt="" width="250" height="141"></figure></td>
-<td style="width: 50%; height: 46px;">
-<h6 class="has-text-color has-medium-font-size">微電影：聽我說一個故事</h6>
-<p class="has-text-color has-normal-font-size">內湖社區大學2019微電影比賽製作之微電影</p>
-<p>使用軟體：<br>Final cut pro X、Illustrator</p>
+<tr>
+<td style="width: 60%; vertical-align: middle;"><figure class="post__image"><img loading="lazy"  src="https://flaa.website/media/posts/2/Zuo-Pin-01.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://flaa.website/media/posts/2/responsive/Zuo-Pin-01-xs.jpg 300w ,https://flaa.website/media/posts/2/responsive/Zuo-Pin-01-sm.jpg 480w ,https://flaa.website/media/posts/2/responsive/Zuo-Pin-01-md.jpg 768w ,https://flaa.website/media/posts/2/responsive/Zuo-Pin-01-lg.jpg 1024w"  alt="" width="480" height="270"></figure></td>
+<td style="width: 40%; vertical-align: middle;">
+<h5>微電影：聽我說一個故事</h5>
+<p><span style="color: #4e5f70;"><span style="font-size: 14px;">內湖社區大學2019微電影比賽第二名<br></span></span><span style="color: #4e5f70;"><span style="font-size: 14px;">使用軟體：<br>Final cut pro X、Illustrator</span></span></p>
 <p class="has-text-color"><a href="https://flaa.website/wei-dian-ying-ting-wo-shuo-yi-ge-gu-shi.html">&lt;內容介紹&gt;</a></p>
 </td>
 </tr>
-<tr style="height: 46px;">
-<td style="width: 50%; height: 46px;"><figure class="post__image"><img loading="lazy"  src="https://flaa.website/media/posts/2/v02-2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://flaa.website/media/posts/2/responsive/v02-2-xs.jpg 300w ,https://flaa.website/media/posts/2/responsive/v02-2-sm.jpg 480w ,https://flaa.website/media/posts/2/responsive/v02-2-md.jpg 768w ,https://flaa.website/media/posts/2/responsive/v02-2-lg.jpg 1024w"  alt="" width="250" height="141"></figure></td>
-<td style="width: 50%; height: 46px;">
+<tr>
+<td style="width: 60%; vertical-align: middle;"><figure class="post__image"><img loading="lazy"  src="https://flaa.website/media/posts/2/v02-2-2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://flaa.website/media/posts/2/responsive/v02-2-2-xs.jpg 300w ,https://flaa.website/media/posts/2/responsive/v02-2-2-sm.jpg 480w ,https://flaa.website/media/posts/2/responsive/v02-2-2-md.jpg 768w ,https://flaa.website/media/posts/2/responsive/v02-2-2-lg.jpg 1024w"  alt="" width="480" height="270"></figure></td>
+<td style="width: 40%; vertical-align: middle;">
 <h6 class="has-text-color has-medium-font-size">夏令營宣傳</h6>
-<p class="has-text-color has-normal-font-size">享家全人發展協會2019年兒童夏令營宣傳</p>
-<p>使用軟體：<br data-rich-text-line-break="true">Final cut pro X、Illustrator、After Effects</p>
+<p><span style="color: #4e5f70;"><span style="font-size: 14px;">享家全人發展協會2019年兒童夏令營宣傳 <br>使用軟體：<br>Final cut pro X、Illustrator、After Effects</span></span></p>
 <p class="has-text-color"><a href="https://flaa.website/xia-ling-ying-xuan-chuan.html">&lt;內容介紹&gt;</a></p>
 </td>
 </tr>
-<tr style="height: 46px;">
-<td style="width: 50%; height: 46px;"><figure class="post__image"><img loading="lazy"  src="https://flaa.website/media/posts/2/v03-1.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://flaa.website/media/posts/2/responsive/v03-1-xs.jpg 300w ,https://flaa.website/media/posts/2/responsive/v03-1-sm.jpg 480w ,https://flaa.website/media/posts/2/responsive/v03-1-md.jpg 768w ,https://flaa.website/media/posts/2/responsive/v03-1-lg.jpg 1024w"  alt="" width="250" height="156"></figure></td>
-<td style="width: 50%; height: 46px;">
+<tr>
+<td style="width: 60%; vertical-align: middle;"><figure class="post__image"><img loading="lazy"  src="https://flaa.website/media/posts/2/v03-1.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://flaa.website/media/posts/2/responsive/v03-1-xs.jpg 300w ,https://flaa.website/media/posts/2/responsive/v03-1-sm.jpg 480w ,https://flaa.website/media/posts/2/responsive/v03-1-md.jpg 768w ,https://flaa.website/media/posts/2/responsive/v03-1-lg.jpg 1024w"  alt="" width="480" height="300"></figure></td>
+<td style="width: 40%; vertical-align: middle;">
 <h6 class="has-text-color has-medium-font-size">聖誕節聚會宣傳片</h6>
-<p class="has-text-color has-normal-font-size">2019年火把教會聖誕節聚會宣傳片</p>
-<p>使用軟體：<br data-rich-text-line-break="true">Final cut pro X</p>
+<p><span style="color: #4e5f70;"><span style="font-size: 14px;">2019年火把教會聖誕節聚會宣傳片<br></span></span><span style="color: #4e5f70;"><span style="font-size: 14px;">使用軟體：<br>Final cut pro X</span></span></p>
 <p class="has-text-color"><a href="https://flaa.website/sheng-dan-jie-ju-hui-xuan-chuan-pian.html">&lt;內容介紹&gt;</a></p>
 </td>
 </tr>
-<tr style="height: 46px;">
-<td style="width: 50%; height: 46px;"><figure class="post__image"><img loading="lazy"  src="https://flaa.website/media/posts/2/Zuo-Pin-04.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://flaa.website/media/posts/2/responsive/Zuo-Pin-04-xs.jpg 300w ,https://flaa.website/media/posts/2/responsive/Zuo-Pin-04-sm.jpg 480w ,https://flaa.website/media/posts/2/responsive/Zuo-Pin-04-md.jpg 768w ,https://flaa.website/media/posts/2/responsive/Zuo-Pin-04-lg.jpg 1024w"  alt="" width="250" height="141"></figure></td>
-<td style="width: 50%; height: 46px;">
+<tr>
+<td style="width: 60%; vertical-align: middle;"><figure class="post__image"><img loading="lazy"  src="https://flaa.website/media/posts/2/Zuo-Pin-04.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://flaa.website/media/posts/2/responsive/Zuo-Pin-04-xs.jpg 300w ,https://flaa.website/media/posts/2/responsive/Zuo-Pin-04-sm.jpg 480w ,https://flaa.website/media/posts/2/responsive/Zuo-Pin-04-md.jpg 768w ,https://flaa.website/media/posts/2/responsive/Zuo-Pin-04-lg.jpg 1024w"  alt="" width="480" height="810"></figure></td>
+<td style="width: 40%; vertical-align: middle;">
 <h6 class="has-text-color has-medium-font-size">婚禮影片</h6>
-<p class="has-text-color has-normal-font-size"> </p>
-<p>使用軟體：<br data-rich-text-line-break="true">Final cut pro X、Motion</p>
+<p><span style="color: #4e5f70;"><span style="font-size: 14px;">使用軟體：<br>Final cut pro X、Motion</span></span></p>
 <p class="has-text-color"><a href="https://flaa.website/hun-li-ying-pian.html">&lt;內容介紹&gt;</a></p>
 </td>
 </tr>
