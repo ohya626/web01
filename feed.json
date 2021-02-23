@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Flora Hsu",
+    "title": "許芳瑜作品集",
     "description": "",
     "home_page_url": "https://flaa.website",
     "feed_url": "https://flaa.website/feed.json",
@@ -9,5 +9,145 @@
         "name": "Fang Yu Hsu"
     },
     "items": [
+        {
+            "id": "https://flaa.website/she-ji-yin-shua-zuo-pin-can-yin-ye.html",
+            "url": "https://flaa.website/she-ji-yin-shua-zuo-pin-can-yin-ye.html",
+            "title": "設計印刷作品(餐飲業)",
+            "summary": "以下是本人於餐飲業在職期間(2016/1~2018/5)所負責之印刷品 因離職後無留存圖檔，僅餘當時配合撰文之部落客之照片 照片來源：https://aniseblog.tw/285、https://nixojov.pixnet.net/blog/post/338505107",
+            "content_html": "<p>以下是本人於餐飲業在職期間(2016/1~2018/5)所負責之印刷品<br><br>因離職後無留存圖檔，僅餘當時配合撰文之部落客之照片</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://flaa.website/media/posts/17/gallery/671787960.jpg\" data-size=\"1000x1500\"><img loading=\"lazy\" src=\"https://flaa.website/media/posts/17/gallery/671787960-thumbnail.jpg\" alt=\"\bcity link南港店燈箱\" width=\"768\" height=\"1152\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://flaa.website/media/posts/17/gallery/32271017811_663d1a4ee8_h.jpg\" data-size=\"1600x1200\"><img loading=\"lazy\" src=\"https://flaa.website/media/posts/17/gallery/32271017811_663d1a4ee8_h-thumbnail.jpg\" alt=\"菜單\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://flaa.website/media/posts/17/gallery/32271021051_b507b9edcc_h.jpg\" data-size=\"1600x1141\"><img loading=\"lazy\" src=\"https://flaa.website/media/posts/17/gallery/32271021051_b507b9edcc_h-thumbnail.jpg\" alt=\"宣傳貼紙\" width=\"768\" height=\"548\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://flaa.website/media/posts/17/gallery/32352203356_3531611506_b.jpg\" data-size=\"851x1024\"><img loading=\"lazy\" src=\"https://flaa.website/media/posts/17/gallery/32352203356_3531611506_b-thumbnail.jpg\" alt=\"活動DM\" width=\"768\" height=\"924\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://flaa.website/media/posts/17/gallery/32352204056_b0999eca29_h.jpg\" data-size=\"1064x1419\"><img loading=\"lazy\" src=\"https://flaa.website/media/posts/17/gallery/32352204056_b0999eca29_h-thumbnail.jpg\" alt=\"活動DM\" width=\"768\" height=\"1024\"></a></figure>\n</div></div>\n<p>照片來源：https://aniseblog.tw/285、https://nixojov.pixnet.net/blog/post/338505107</p>",
+            "author": {
+                "name": "Fang Yu Hsu"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-02-23T15:31:39+08:00",
+            "date_modified": "2021-02-23T15:31:39+08:00"
+        },
+        {
+            "id": "https://flaa.website/shou-ye.html",
+            "url": "https://flaa.website/shou-ye.html",
+            "title": "關於我",
+            "summary": "HI，你好 我是許芳瑜，喜歡設計及剪輯，一個多元學習的人 謝謝你撥空觀看我的作品集網站",
+            "content_html": "<p>HI，你好</p>\n<p>我是許芳瑜，喜歡設計及剪輯，一個多元學習的人</p>\n<p>謝謝你撥空觀看我的作品集網站</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://flaa.website/media/posts/16/flora.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://flaa.website/media/posts/16/responsive/flora-xs.png 300w ,https://flaa.website/media/posts/16/responsive/flora-sm.png 480w ,https://flaa.website/media/posts/16/responsive/flora-md.png 768w ,https://flaa.website/media/posts/16/responsive/flora-lg.png 1024w\"  alt=\"\" width=\"418\" height=\"249\"></figure>",
+            "author": {
+                "name": "Fang Yu Hsu"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-02-23T15:31:39+08:00",
+            "date_modified": "2021-02-23T15:31:39+08:00"
+        },
+        {
+            "id": "https://flaa.website/blender.html",
+            "url": "https://flaa.website/blender.html",
+            "title": "3D",
+            "summary": "使用軟體-Blender 以下皆為臨摹作品 參考來源:YT-Blender Guru 參考來源:YT-三米創作 參考來源:YT- 參考來源:YT-",
+            "content_html": "<p>使用軟體-Blender<br>以下皆為臨摹作品<br>參考來源:YT-Blender Guru<br>參考來源:YT-三米創作<br>參考來源:YT-<br>參考來源:YT-</p>",
+            "author": {
+                "name": "Fang Yu Hsu"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-02-23T15:31:39+08:00",
+            "date_modified": "2021-02-23T15:31:39+08:00"
+        },
+        {
+            "id": "https://flaa.website/ping-mian-she-ji.html",
+            "url": "https://flaa.website/ping-mian-she-ji.html",
+            "title": "平面設計",
+            "summary": "平面設計 插畫 海報 網路宣傳",
+            "content_html": "<p>平面設計</p>\n<p>插畫</p>\n<p> </p>\n<p>海報</p>\n<p> </p>\n<p>網路宣傳</p>",
+            "author": {
+                "name": "Fang Yu Hsu"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-02-23T15:31:39+08:00",
+            "date_modified": "2021-02-23T15:31:39+08:00"
+        },
+        {
+            "id": "https://flaa.website/ping-mian-she-ying.html",
+            "url": "https://flaa.website/ping-mian-she-ying.html",
+            "title": "平面攝影",
+            "summary": "平面攝影 使用Nikon D3100",
+            "content_html": "<p><span style=\"color: #7e8c8d;\">平面攝影</span><br><span style=\"color: #7e8c8d;\">使用Nikon D3100</span></p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://flaa.website/media/posts/13/gallery/_DSC0374-2.JPG\" data-size=\"4608x3072\"><img loading=\"lazy\" src=\"https://flaa.website/media/posts/13/gallery/_DSC0374-2-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://flaa.website/media/posts/13/gallery/_DSC0460-18mm-2.JPG\" data-size=\"4608x3072\"><img loading=\"lazy\" src=\"https://flaa.website/media/posts/13/gallery/_DSC0460-18mm-2-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://flaa.website/media/posts/13/gallery/_DSC0470-100mm-2.JPG\" data-size=\"4608x3072\"><img loading=\"lazy\" src=\"https://flaa.website/media/posts/13/gallery/_DSC0470-100mm-2-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://flaa.website/media/posts/13/gallery/1546093461671-2.jpeg\" data-size=\"4608x3072\"><img loading=\"lazy\" src=\"https://flaa.website/media/posts/13/gallery/1546093461671-2-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://flaa.website/media/posts/13/gallery/Zhong-Bu-Zong-2-3.jpg\" data-size=\"3953x2635\"><img loading=\"lazy\" src=\"https://flaa.website/media/posts/13/gallery/Zhong-Bu-Zong-2-3-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://flaa.website/media/posts/13/gallery/Chu-You-3-2.jpg\" data-size=\"4242x2828\"><img loading=\"lazy\" src=\"https://flaa.website/media/posts/13/gallery/Chu-You-3-2-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://flaa.website/media/posts/13/gallery/Ya-1-2.jpg\" data-size=\"3897x2598\"><img loading=\"lazy\" src=\"https://flaa.website/media/posts/13/gallery/Ya-1-2-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://flaa.website/media/posts/13/gallery/Ya-6.jpg\" data-size=\"4009x2673\"><img loading=\"lazy\" src=\"https://flaa.website/media/posts/13/gallery/Ya-6-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://flaa.website/media/posts/13/gallery/cake.jpg\" data-size=\"1280x853\"><img loading=\"lazy\" src=\"https://flaa.website/media/posts/13/gallery/cake-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n</div></div>",
+            "author": {
+                "name": "Fang Yu Hsu"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-02-23T15:31:39+08:00",
+            "date_modified": "2021-02-23T15:31:39+08:00"
+        },
+        {
+            "id": "https://flaa.website/qi-ta-zuo-pin-ji.html",
+            "url": "https://flaa.website/qi-ta-zuo-pin-ji.html",
+            "title": "其他作品集",
+            "summary": "其他作品集 Illustrator 平面攝影 Blender",
+            "content_html": "<p>其他作品集</p>\n<p>Illustrator</p>\n<p> </p>\n<p>平面攝影</p>\n<p> </p>\n<p>Blender</p>",
+            "author": {
+                "name": "Fang Yu Hsu"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-02-23T15:31:39+08:00",
+            "date_modified": "2021-02-23T15:31:39+08:00"
+        },
+        {
+            "id": "https://flaa.website/hun-li-ying-pian.html",
+            "url": "https://flaa.website/hun-li-ying-pian.html",
+            "title": "婚禮影片",
+            "summary": "Double A Wedding 成長影片開頭&amp;轉場(無音樂)此為朋友委託製作的婚禮影片，較個人的訪談及照片已刪減 使用軟體：Final cut pro X，Motion(手寫字)。 插畫設計：Amy Chou &lt;&lt;返回作品集",
+            "content_html": "<h4>Double A Wedding 成長影片開頭&amp;轉場(無音樂)</h4>\n<p><span style=\"color: #4e5f70;\"><span style=\"font-size: 14px;\">此為朋友委託製作的婚禮影片，較個人的訪談及照片已刪減<br>使用軟體：Final cut pro X，Motion(手寫字)。</span></span></p>\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/TiTCM8qufYo\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<p><span style=\"color: #4e5f70;\"><span style=\"font-size: 14px;\">插畫設計：Amy Chou</span></span></p>\n<p><a href=\"https://flaa.website/ying-yin-zuo-pin-ji.html\">&lt;&lt;返回作品集</a></p>",
+            "author": {
+                "name": "Fang Yu Hsu"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-02-23T15:31:39+08:00",
+            "date_modified": "2021-02-23T15:31:39+08:00"
+        },
+        {
+            "id": "https://flaa.website/sheng-dan-jie-ju-hui-xuan-chuan-pian.html",
+            "url": "https://flaa.website/sheng-dan-jie-ju-hui-xuan-chuan-pian.html",
+            "title": "聖誕節聚會宣傳片",
+            "summary": "2019年火把教會聖誕節聚會宣傳片負責項目：剪輯 使用軟體：Final cut pro X &lt;&lt;返回作品集",
+            "content_html": "<h5>2019年火把教會聖誕節聚會宣傳片</h5>\n<p><span style=\"color: #4e5f70;\"><span style=\"font-size: 14px;\">負責項目：剪輯<br></span></span><span style=\"color: #4e5f70;\"><span style=\"font-size: 14px;\">使用軟體：Final cut pro X</span></span></p>\n<h5>完整影片：</h5>\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/IkMDptbJj3M\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<p> </p>\n<p><a href=\"https://flaa.website/ying-yin-zuo-pin-ji.html\">&lt;&lt;返回作品集</a></p>",
+            "author": {
+                "name": "Fang Yu Hsu"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-02-23T15:31:39+08:00",
+            "date_modified": "2021-02-23T15:31:39+08:00"
+        },
+        {
+            "id": "https://flaa.website/xia-ling-ying-xuan-chuan.html",
+            "url": "https://flaa.website/xia-ling-ying-xuan-chuan.html",
+            "title": "夏令營宣傳",
+            "summary": "2019享家兒童夏令營繞著地球跑之歐啦歐啦 負責項目：剪輯 使用軟體：Final cut pro X(剪輯&amp;簡易動畫)、After Effects(地球動畫)、Illustrator(新聞畫面素材) 完整影片： &lt;&lt;返回作品集",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://flaa.website/media/posts/9/v02-1.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://flaa.website/media/posts/9/responsive/v02-1-xs.png 300w ,https://flaa.website/media/posts/9/responsive/v02-1-sm.png 480w ,https://flaa.website/media/posts/9/responsive/v02-1-md.png 768w ,https://flaa.website/media/posts/9/responsive/v02-1-lg.png 1024w\"  alt=\"\" width=\"300\" height=\"169\"></figure>\n<p><strong>2019享家兒童夏令營繞著地球跑之歐啦歐啦<br></strong><span style=\"color: #4e5f70;\"><span style=\"font-size: 14px;\">負責項目：剪輯<br></span></span><span style=\"color: #4e5f70;\"><span style=\"font-size: 14px;\">使用軟體：Final cut pro X(剪輯&amp;簡易動畫)、After Effects(地球動畫)、Illustrator(新聞畫面素材)</span></span></p>\n<h5><br>完整影片：<br><br></h5>\n<div><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/-WyT6huJlXc\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div></div>\n<div> </div>\n<div> </div>\n<div><a href=\"https://flaa.website/ying-yin-zuo-pin-ji.html\">&lt;&lt;返回作品集</a></div>",
+            "author": {
+                "name": "Fang Yu Hsu"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-02-23T15:31:39+08:00",
+            "date_modified": "2021-02-23T15:31:39+08:00"
+        },
+        {
+            "id": "https://flaa.website/wei-dian-ying-ting-wo-shuo-yi-ge-gu-shi.html",
+            "url": "https://flaa.website/wei-dian-ying-ting-wo-shuo-yi-ge-gu-shi.html",
+            "title": "微電影：聽我說一個故事",
+            "summary": "作品介紹*此為參加內湖社區大學2019年微電影比賽第二名的作品 製作緣由： 2018年參加內湖社區大學的廣播正音課程，同學組成都是各行各業、年齡分較廣，因班上同學想一起留下課堂的回憶，故參加了這次的微電影比賽，而我負責所有的後製，另在錄音室的課程中用單眼相機幫同學拍個人照。影片素材皆為同學上課時用手機錄製，雖然有一些課堂畫面及收音較不清晰，因為了貼合主題及增加豐富度還是放進了微電影。 負責項目： 後製(剪輯/配樂/上字…等)，使用Final cut pro X &lt;&lt;返回作品集",
+            "content_html": "<h3><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://flaa.website/media/posts/5/v01-3-3.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://flaa.website/media/posts/5/responsive/v01-3-3-xs.png 300w ,https://flaa.website/media/posts/5/responsive/v01-3-3-sm.png 480w ,https://flaa.website/media/posts/5/responsive/v01-3-3-md.png 768w ,https://flaa.website/media/posts/5/responsive/v01-3-3-lg.png 1024w\"  alt=\"\" width=\"300\" height=\"169\"></figure></h3>\n<h3 class=\"widget-title\">作品介紹</h3>\n<p><span style=\"color: #4e5f70;\"><span style=\"font-size: 14px;\">*此為參加內湖社區大學2019年微電影比賽第二名的作品</span></span></p>\n<p><strong>製作緣由：<br></strong><span style=\"color: #4e5f70;\"><span style=\"font-size: 14px;\">2018年參加內湖社區大學的廣播正音課程，同學組成都是各行各業、年齡分較廣，因班上同學想一起留下課堂的回憶，故參加了這次的微電影比賽，而我負責所有的後製，另在錄音室的課程中用單眼相機幫同學拍個人照。影片素材皆為同學上課時用手機錄製，雖然有一些課堂畫面及收音較不清晰，因為了貼合主題及增加豐富度還是放進了微電影。</span></span></p>\n<p><strong>負責項目：<br></strong><span style=\"color: #4e5f70;\"><span style=\"font-size: 14px;\">後製(剪輯/配樂/上字…等)，使用Final cut pro X</span></span></p>\n<h5>片段：<br><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Aeiu0u4VGBs\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div> <br>完整影片：</h5>\n<p><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/lwalqhlPCxg\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div></p>\n<p> </p>\n<p><a href=\"https://flaa.website/ying-yin-zuo-pin-ji.html\">&lt;&lt;返回作品集</a></p>",
+            "author": {
+                "name": "Fang Yu Hsu"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-02-23T15:31:39+08:00",
+            "date_modified": "2021-02-23T15:31:39+08:00"
+        }
     ]
 }
