@@ -3,7 +3,7 @@
     <title>Flora Hsu Portfolio</title>
     <link href="https://florahsu.website/feed.xml" rel="self" />
     <link href="https://florahsu.website" />
-    <updated>2021-11-09T15:21:51+08:00</updated>
+    <updated>2021-11-18T15:15:23+08:00</updated>
     <author>
         <name>Flora Hsu</name>
     </author>
@@ -168,31 +168,29 @@
         </content>
     </entry>
     <entry>
-        <title>商品圖合成</title>
+        <title>商品場景</title>
         <author>
             <name>Flora Hsu</name>
         </author>
-        <link href="https://florahsu.website/product-compositing/"/>
-        <id>https://florahsu.website/product-compositing/</id>
+        <link href="https://florahsu.website/product-scene/"/>
+        <id>https://florahsu.website/product-scene/</id>
             <category term="3D"/>
 
-        <updated>2021-11-09T15:17:15+08:00</updated>
+        <updated>2021-11-18T15:15:23+08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://florahsu.website/media/posts/6/015-3.jpg" alt="" />
-                     合成前場景 簡單走華麗路線的的小場景 適合放任何有照相功能的商品 使用素材僅供個人練習使用，無使用於任何商業用途 Sony商品圖來源：https://www.t3.com/reviews/sony-alpha-a7r-iii-review
+                        <img src="https://florahsu.website/media/posts/6/015-40000-2.png" alt="" />
+                     走華麗路線的的小場景 僅供個人練習使用，無使用於任何商業用途 商品參考：GoPro Hero 10 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://florahsu.website/media/posts/6/015-3.jpg" alt="" />
-                <figure class="post__image" ><img loading="lazy" src="https://florahsu.website/media/posts/6//015-3-1.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://florahsu.website/media/posts/6//responsive/015-3-1-xs.jpg 300w ,https://florahsu.website/media/posts/6//responsive/015-3-1-sm.jpg 480w ,https://florahsu.website/media/posts/6//responsive/015-3-1-md.jpg 768w ,https://florahsu.website/media/posts/6//responsive/015-3-1-lg.jpg 1024w"  alt="" width="1500" height="2000">
-<figcaption >合成前場景</figcaption>
-</figure>
-<p>簡單走華麗路線的的小場景</p>
-<p>適合放任何有照相功能的商品</p>
-<p>使用素材僅供個人練習使用，無使用於任何商業用途</p>
-<p>Sony商品圖來源：https://www.t3.com/reviews/sony-alpha-a7r-iii-review</p>
+                    <img src="https://florahsu.website/media/posts/6/015-40000-2.png" alt="" />
+                <p> </p>
+<p>走華麗路線的的小場景</p>
+<p>僅供個人練習使用，無使用於任何商業用途</p>
+<p>商品參考：GoPro Hero 10</p>
+<p> </p>
             ]]>
         </content>
     </entry>
